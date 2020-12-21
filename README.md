@@ -1,2 +1,3 @@
 # Tkinter-Interface
-Created to run stock predictor interface
+
+* Created to run stock predictor interface
