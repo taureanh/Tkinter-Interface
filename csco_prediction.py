@@ -10,7 +10,7 @@ cwd = os.getcwd()
 print(cwd)
 
 def csco1():
-    df = pd.read_csv('Predict_Stocks/Resources/CSCO.csv')
+    df = pd.read_csv('Tkinter-Interface/Resources/CSCO.csv')
     print(df)
 
 
